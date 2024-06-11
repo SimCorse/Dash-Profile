@@ -1,0 +1,737 @@
+{
+  "InstanceId": "5d59214c-0ae9-4615-ae7e-09c9e80454c4",
+  "DeviceTypeID": "D8415EF5-1052-451F-916F-B286531AD0FE",
+  "Settings": {
+    "ledModuleSettings": {
+      "_LEDsBrightness": 100.0,
+      "_ButtonsBrightness": 100.0,
+      "_EncodersBrightness": 100.0,
+      "ActionLowerButtonsBrightness": {},
+      "ActionLowerEncodersBrightness": {},
+      "ActionLowerGlobalBrightness": {},
+      "ActionLowerLedsBrightness": {},
+      "ActionRaiseButtonsBrightness": {},
+      "ActionRaiseEncodersBrightness": {},
+      "ActionRaiseGlobalBrightness": {},
+      "ActionRaiseLedsBrightness": {},
+      "ButtonsBrightnessSteps": 2,
+      "EncodersBrightnessSteps": 2,
+      "GlobalBrightnessSteps": 2,
+      "LedsBrightnessSteps": 2,
+      "ActionNextButtonsColorPreset": {},
+      "ActionPreviousButtonsColorPreset": {},
+      "GlobalBrightnessPreset": {
+        "CurrentMode": 0,
+        "Brightness": 19.344608879492604,
+        "BrightnessSettings": {
+          "Day": 19.344608879492604,
+          "Night": 50.0
+        }
+      },
+      "LEDsBrightness": 100.0,
+      "ButtonsBrightness": 100.0,
+      "BrightnessChangeHint": true,
+      "EncodersBrightness": 100.0,
+      "LedModuleSettingsButtonsMode": 0,
+      "UseButtonsDefaultColors": true,
+      "ConfigurablePhysicalMapper": {
+        "Map": []
+      },
+      "ConnectToSpecificDeviceSerial": false,
+      "RequestedSerialNumber": null,
+      "LockOEMSettings": false,
+      "PID": 4116,
+      "VID": 4372,
+      "ForceRefreshWithNoChanges": false,
+      "IsEnabled": true,
+      "Ledcount": -1,
+      "IndividualLEDsMode": 0,
+      "SerialNumbers": []
+    },
+    "leds": {
+      "LastGameProfiles": {
+        "iracing": "87b63382-857a-4d26-a848-ae92487d67c0",
+        "assettocorsacompetizione": "87b63382-857a-4d26-a848-ae92487d67c0",
+        "automobilista2": "00000000-0000-0000-0000-000000000000",
+        "assettocorsa": "87b63382-857a-4d26-a848-ae92487d67c0"
+      },
+      "LastUsedProfile": "00000000-0000-0000-0000-000000000000",
+      "activeProfileId": "87b63382-857a-4d26-a848-ae92487d67c0",
+      "GlobalBrightness": 50.0,
+      "GlobalBrightnessPreset": {
+        "CurrentMode": 0,
+        "Brightness": 50.0,
+        "BrightnessSettings": {
+          "Day": 50.0,
+          "Night": 50.0
+        }
+      },
+      "SingleColorRenderMode": 0,
+      "AllOnExceptEffects_KeepOffOutOfGame": true,
+      "LightLedsOnBrightnessChange": true,
+      "ForcedLedCount": -1,
+      "ProfileSwitchingMode": 0,
+      "ProfilesCycleMode": 0,
+      "Profiles": [
+        {
+          "EmbeddedJavascript": null,
+          "GlobalBrightness": 50.0,
+          "GlobalBrightnessPreset": {
+            "CurrentMode": 0,
+            "Brightness": 50.0,
+            "BrightnessSettings": {
+              "Day": 50.0,
+              "Night": 50.0
+            }
+          },
+          "LedContainers": [
+            {
+              "LedContainers": [
+                {
+                  "LedContainers": [
+                    {
+                      "LedContainers": [
+                        {
+                          "LedContainers": [
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 55.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 5,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 60.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 6,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 65.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 7,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 70.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Yellow",
+                              "EndColor": "Yellow",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 8,
+                              "ContainerType": "RPM",
+                              "Description": "Show leds based on car RPMs"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 75.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Yellow",
+                              "EndColor": "Yellow",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 9,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 80.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Red",
+                              "EndColor": "Red",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 10,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 85.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Red",
+                              "EndColor": "Red",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 11,
+                              "ContainerType": "RPM",
+                              "Description": "Show leds gradient based on car RPMs copy"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 90.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "DeepSkyBlue",
+                              "EndColor": "DeepSkyBlue",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 12,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 90.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "DeepSkyBlue",
+                              "EndColor": "DeepSkyBlue",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 13,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 85.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Red",
+                              "EndColor": "Red",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 14,
+                              "ContainerType": "RPM",
+                              "Description": "Show leds gradient based on car RPMs copy"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 80.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Red",
+                              "EndColor": "Red",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 15,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 75.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Yellow",
+                              "EndColor": "Yellow",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 16,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 70.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Yellow",
+                              "EndColor": "Yellow",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 17,
+                              "ContainerType": "RPM",
+                              "Description": "Show leds based on car RPMs copy"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 65.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 18,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 60.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 19,
+                              "ContainerType": "RPM"
+                            },
+                            {
+                              "RpmMode": 0,
+                              "OverrideMaxRPMWithRedlineValue": false,
+                              "PercentMin": 55.0,
+                              "PercentMax": 100.0,
+                              "RPMMin": 0.0,
+                              "RPMMax": 8000.0,
+                              "BlinkDelay": 80,
+                              "StartColor": "Lime",
+                              "EndColor": "Lime",
+                              "LedCount": 1,
+                              "BlinkOnLastGear": false,
+                              "UseLedDimming": false,
+                              "RelativeToRedline": false,
+                              "StartPosition": 20,
+                              "ContainerType": "RPM"
+                            }
+                          ],
+                          "ContainerType": "Base.Group",
+                          "Description": "RPM FORMATO 1"
+                        },
+                        {
+                          "IdleColor": "Transparent",
+                          "IdleBlinkingColor": "Transparent",
+                          "EnableIdleBlinking": false,
+                          "LedCount": 16,
+                          "Color": "DeepSkyBlue",
+                          "BlinkingColor": "Transparent",
+                          "BlinkEnabled": true,
+                          "BlinkDelay": 80,
+                          "StartPosition": 5,
+                          "ContainerType": "Flags.RedlineReached",
+                          "Description": "LIMITE RPMs"
+                        },
+                        {
+                          "LedCount": 16,
+                          "Color1Alternate": "DeepSkyBlue",
+                          "Color2Alternate": "Red",
+                          "Color1SingleColor": "Blue",
+                          "Color2SingleColor": "Red",
+                          "AlternateDelay": 400,
+                          "AlternateEnabled": true,
+                          "BlinkColor1Delay": 500,
+                          "LimiterBehavior": 1,
+                          "Alternate2BlanckBackground": true,
+                          "StartPosition": 5,
+                          "ContainerType": "Status.SpeedLimiterAnimation"
+                        }
+                      ],
+                      "ContainerType": "Base.Group",
+                      "Description": "LEDS SUPERIOR"
+                    },
+                    {
+                      "LedContainers": [
+                        {
+                          "LedContainers": [
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 4,
+                              "Color": "Red",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "DualBlinkTimingEnabled": true,
+                              "OffDelay": 70,
+                              "OnDelay": 100,
+                              "StartPosition": 21,
+                              "ContainerType": "Status.SpotterCarRight",
+                              "Description": "Generates a static color when the a car is at your right"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 4,
+                              "Color": "Red",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "DualBlinkTimingEnabled": true,
+                              "OffDelay": 70,
+                              "OnDelay": 100,
+                              "ContainerType": "Status.SpotterCarLeft",
+                              "Description": "Generates a static color when the a car is at your left"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "Violet",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "BlinkDelay": 200,
+                              "StartPosition": 23,
+                              "ContainerType": "Status.AbsOn",
+                              "IsEnabled": false
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "Violet",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "BlinkDelay": 80,
+                              "StartPosition": 23,
+                              "ContainerType": "Status.AbsActive",
+                              "Description": "Generates a static color when the ABS is currently active"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "Blue",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "BlinkDelay": 200,
+                              "StartPosition": 24,
+                              "ContainerType": "Status.TCOn",
+                              "IsEnabled": false
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "Blue",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "BlinkDelay": 80,
+                              "StartPosition": 24,
+                              "ContainerType": "Status.TCActive",
+                              "Description": "Generates a static color when the traction control is currently active"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "Yellow",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "BlinkDelay": 300,
+                              "ContainerType": "Status.LowFuelRemainingLapsAlert",
+                              "IsEnabled": false
+                            },
+                            {
+                              "PositiveColor": "Transparent",
+                              "NegativeColor": "Lime",
+                              "ValueRange": 3000.0,
+                              "PositiveLedCount": 1,
+                              "NegativeLedCount": 1,
+                              "UseLedDimming": false,
+                              "UseSessionBest": true,
+                              "StartPosition": 20,
+                              "ContainerType": "Gap.Delta"
+                            },
+                            {
+                              "PositiveColor": "Red",
+                              "NegativeColor": "Transparent",
+                              "ValueRange": 3000.0,
+                              "PositiveLedCount": 1,
+                              "NegativeLedCount": 1,
+                              "UseLedDimming": false,
+                              "UseSessionBest": true,
+                              "StartPosition": 4,
+                              "ContainerType": "Gap.Delta"
+                            }
+                          ],
+                          "ContainerType": "Base.Group",
+                          "Description": "VARIOS"
+                        },
+                        {
+                          "TriggerFormula": {
+                            "Expression": "[DataCorePlugin.GameData.NewData.Flag_Checkered]"
+                          },
+                          "LedContainers": [
+                            {
+                              "Animation": {
+                                "Columns": 4,
+                                "Rows": 1,
+                                "Frames": [
+                                  {
+                                    "Colors": "0,0,White;0,2,White",
+                                    "FrameDuration": 500
+                                  },
+                                  {
+                                    "Colors": "0,1,White;0,3,White",
+                                    "FrameDuration": 500
+                                  }
+                                ],
+                                "PenColor": "White"
+                              },
+                              "StartPosition": 21,
+                              "ContainerType": "Animation"
+                            },
+                            {
+                              "Animation": {
+                                "Columns": 4,
+                                "Rows": 1,
+                                "Frames": [
+                                  {
+                                    "Colors": "0,0,White;0,2,White",
+                                    "FrameDuration": 500
+                                  },
+                                  {
+                                    "Colors": "0,1,White;0,3,White",
+                                    "FrameDuration": 500
+                                  }
+                                ],
+                                "PenColor": "White"
+                              },
+                              "ContainerType": "Animation"
+                            }
+                          ],
+                          "ContainerType": "Groups.CustomConditionalGroup",
+                          "Description": "BANDERA A CUADROS"
+                        },
+                        {
+                          "TotalWidth": 24,
+                          "LedContainers": [
+                            {
+                              "Brightness": 30,
+                              "LedContainers": [
+                                {
+                                  "IdleColor": "Transparent",
+                                  "IdleBlinkingColor": "Transparent",
+                                  "EnableIdleBlinking": false,
+                                  "LedCount": 4,
+                                  "Color": "White",
+                                  "BlinkingColor": "Transparent",
+                                  "BlinkEnabled": false,
+                                  "ContainerType": "Flags.WhiteFlag",
+                                  "Description": "Generates a static color when the White flag is ON"
+                                }
+                              ],
+                              "ContainerType": "Groups.BrightnessGroup",
+                              "Description": "WHITE FLAG"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "White",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "ContainerType": "Flags.BlackFlag",
+                              "Description": "Generates a static color when the black flag is ON"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 1,
+                              "Color": "White",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "StartPosition": 4,
+                              "ContainerType": "Flags.BlackFlag",
+                              "Description": "Generates a static color when the black flag is ON"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 4,
+                              "Color": "Blue",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "ContainerType": "Flags.BlueFlag",
+                              "Description": "Generates a static color when the Blue flag is ON"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 4,
+                              "Color": "Lime",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": false,
+                              "ContainerType": "Flags.GreenFlag",
+                              "Description": "Generates a static color when the Green flag is ON"
+                            },
+                            {
+                              "IdleColor": "Transparent",
+                              "IdleBlinkingColor": "Transparent",
+                              "EnableIdleBlinking": false,
+                              "LedCount": 4,
+                              "Color": "Yellow",
+                              "BlinkingColor": "Transparent",
+                              "BlinkEnabled": true,
+                              "DualBlinkTimingEnabled": true,
+                              "OffDelay": 100,
+                              "OnDelay": 300,
+                              "ContainerType": "Flags.YellowFlag",
+                              "Description": "Generates a static color when the Yellow flag is ON"
+                            }
+                          ],
+                          "ContainerType": "Groups.MirrorGroup",
+                          "Description": "BANDERAS"
+                        }
+                      ],
+                      "ContainerType": "Base.Group",
+                      "Description": "LEDS LATERALOS"
+                    }
+                  ],
+                  "ContainerType": "Groups.GameRunningGroup",
+                  "Description": ""
+                }
+              ],
+              "ContainerType": "Base.Group",
+              "Description": "SIMCORSE CDU8w"
+            }
+          ],
+          "TestLedsGameData": {
+            "GearEx": -2,
+            "FuelMax": 100.0,
+            "RPMSMax": 10000.0,
+            "TurboMax": 3.5,
+            "TurnIndicatorLeftEnabled": false,
+            "TurnIndicatorRightEnabled": false,
+            "SessionBestDeltaEx": 0.0,
+            "AllTimeBestDeltaEx": 0.0,
+            "DRSEnabled": false,
+            "DRSAvailable": false,
+            "MaxRpm": 10000.0,
+            "GameRunning": true,
+            "Brake": 0.0,
+            "GameName": "IRacing",
+            "Fuel": 0.0,
+            "RPMPercent": 0.0,
+            "RPMRedlineReached": false,
+            "SpeedKmh": 0.0,
+            "SpeedMph": 0.0,
+            "Turbo": 0.0,
+            "TurboPercent": 0.0,
+            "Gear": "R2",
+            "IsInPitLane": false,
+            "PitLimiterOn": false,
+            "AbsEnabled": false,
+            "AbsActive": false,
+            "TCEnabled": false,
+            "TCActive": false,
+            "LowFuelAlert": false,
+            "SpotterCarLeft": false,
+            "SpotterCarRight": false,
+            "BlackFlag": false,
+            "YellowFlag": false,
+            "WhiteFlag": false,
+            "BlueFlag": false,
+            "GreenFlag": false,
+            "CarModel": null,
+            "CarId": null,
+            "CarStartedTime": "2023-05-02T16:40:19.1906754-03:00",
+            "SessionBestDelta": 0.0,
+            "AllTimeBestDelta": 0.0
+          },
+          "UseProfileBrightness": false,
+          "LastLoaded": "2024-02-02T14:13:45.9494816-03:00",
+          "Name": "SimCorse CDU8w",
+          "ProfileId": "87b63382-857a-4d26-a848-ae92487d67c0",
+          "GameCode": null,
+          "CarChoice": null
+        }
+      ]
+    },
+    "buttons": null,
+    "encoders": null,
+    "raw": null
+  },
+  "ExtensionSettings": {},
+  "CustomName": "SimCorse CDU8w",
+  "AutomaticName": null,
+  "DeviceTypeName": "Standard Led device",
+  "CustomPicture": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAEgCAMAAAD14jtjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURQAAAISEhJIAAAAzAIgRiwCcAFtbW6OjAAkMEK+iWu/v70ZGABhIVAwafYR5RhQrMVVVVQDkANAAAMDAwKOjowcCAlxcAO3t7SEII9LT0mFhYRQ6R1APUx6Vr4OCg+vrAANeBEYOEDAHCIlZJru7u0pKShs3sj09Pf7+7lxysFE7JObm5j4+PjExAODg3xmWHG1kOsDAwCNlIxo0O5KSkunq6SghFiVqfAofCz8LQYuLAACDAAJNA+fn5QMCBrCwsP4AAG9KIx0YDwoJAwoLPdra2URERMfHACV7j/Ly8gEhuZiMT/7+/TU1NXNzcwG4CR9bawEJAmgBAWhoZ/7+/aAMpF1dXT42IMrKyiUpK24RcRWwGra2thJDE+jp51RLKqsAABpgG1tbW0czGxILEhEMCjoxKM7OzZycnOjo6Tw8PHEVFcS1YAsLC6urq4CAgBUSCP7+AOTk5ImKigDLAEtjryozNR8gIpqamig4PDAtLN7e3B4EBf7+/jVwLRaEGHhtU0oAAHFxAB1UX+vr63NzcxS/Gr+RMxERETMsGhcXF0NDQykpKDY2Njg4Nz09PjlHODo6OiwsLGFYMi4uLycmJ9nZ2AD+AOXl5A0pDhIlFBITGCMjIzMzMxUVFSEeHSUlJh8fALe3uJmZmWheNrW1ALu7uyKEmx4eHklCKHdsORsbGzMzMzU2OTc2N9zd3KWYUy9JsC8JMZZgJ/Dw8MHBwZASFDRleP7+/vX18qKioiZ7J0BAQQlKC6oREtbW1tHR0erq6kZGRgkenLKyskNDQ/T085YPmhVvFwjDDwwdJhOmxG5ubmAPY+vr63xSJtjY1h09Qx6tIe7+7o+DS8vLymtrawAeAAgFCOLi4SlVYyNjc2VlZacIqwkTGAMIC1lSKiNCRyVLWMEOD+7u5w00D9jYAGBDJSNzgwCtAWdoa3hwQgi2EP7+/snJyUU6JgsmsiC8JExMTFgVFhVMFvDw6UcNDbmrXXt7ewBvAFJSUs/Qz+rr5XcOe1dXVwAAAOPRcB4AAAEAdFJOU/9E/////1f///8h///////m//8iu///Ov91v////////////7We/84e//8j/v9z//+d///+SP////////9Z/5f//////1zf//8p//8u3v///////z7/hv+4//////9c//////////+LLkTx/////+b//1D//////////3v/Iv///////zVc///////G//7////+/////0n/ZP/////w//////91///////////+//6F/////0P///8WOP//////ZP91/////jH//////3v/UP9Q//8g/5P///9r/////////////0H//////////xv//////v//R///////glL/YQC0n3+bAAAACXBIWXMAAA7DAAAOwwHHb6hkAABczUlEQVR4Xu29DZwT13kvPPnwDSQU3qSV6762FQfqJKVK4ZoJYMeeG9jcG1qSMRvi8mKWEk9YblIzutRKjdjiS2IS3kHZ3bwSUhNqRV5ziRBI3RITJY1MEqIrNdiOQ+1QRYUJ6yUh4BdXxDIxk2lS3+d5zhlpRh+7WntFnJ/039XMOWfOfJ3nf57znM8RXu6io9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OLoE6HB0CdDh6BKgw9ElQIejS4AOR5cAHY4uATocXQJ0OKZMgNfd/Pm/TKWGUoBh2jK3tW9wYGjIcoCTQvlh8FMooOYMa8vOQLfjCGJomMcgD23ZzroUD6ueUn8N7nYesG2tm9PWjsrFa+E8YPfA4wKmcCl+hv15OPgBBtuBodHPf/5zXEwtY4oE+N2bw5HIyEg0Gh2J4o6csIuwPQMd5gERtuPRbE7rjMqRER6VHeAbuozzALuy7eZwgDsQ5LYO0Lb2IO7ZDgFO9NUfANgPOI7YDvCHqwIemu8rcJxb40PwkPoDHE0P1N18MPyuKVJgagT43IdHoklN7eK1ikBiJPWfuLBaw5QI8IkPRxOq0MVrGGoyGp6SDpgSAT4f6cr/tQ4pEP0wF1dLmAoBPhdOaPw2XbxmoSYH/5wLrBVMhQA3RwISv0vb8Ib3XXPNTT/i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",
+  "Enabled": true,
+  "SuspendWhenMonitorIsOff": true,
+  "LastStandardDevicePreset": null
+}
